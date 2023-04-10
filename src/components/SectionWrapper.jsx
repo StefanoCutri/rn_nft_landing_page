@@ -46,7 +46,10 @@ const SectionWrapper = ({
             {description}
           </p>
           {showBtn && (
-            <Button assetsUrl={assets.expo} link="link to deployed app" />
+            <Button
+              assetsUrl={assets.expo}
+              link="https://expo.dev/@stefanocutri/rn_modern_app?serviceType=classic&distribution=expo-go"
+            />
           )}
         </div>
         <div className={`flex-1 ${styles.flexCenter} p-8 sm:px-9`}>
