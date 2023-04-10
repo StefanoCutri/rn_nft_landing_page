@@ -12,6 +12,7 @@ const Button = ({ assetsUrl, link }) => {
         <p className={`${styles.btnText} font-normal text-xs`}>View it on</p>
         <p className={`${styles.btnText} font-bold text-sm`}>Expo store</p>
       </div>
+
     </div>
   );
 };

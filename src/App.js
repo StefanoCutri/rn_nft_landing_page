@@ -1,13 +1,17 @@
 import { Download, Features, SectionWrapper } from "./components";
+import assets from './assets'
 
 const App = () => {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">Hello</h1>
-      <Download/>
-      <Features/>
-      <SectionWrapper/>
-    </div>
+    <>  
+      <SectionWrapper
+        title='You own the market of NFTs. Start selling and growing.'
+        description='Buy, store and collect NFTs earning cryptos.'
+        showBtn
+        mockupImg={assets.homeHero}
+        banner='banner'
+      />
+    </>
   );
 };
 
