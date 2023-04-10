@@ -19,6 +19,20 @@ const App = () => {
         reverse
       />
       <Features />
+      <SectionWrapper
+        title='Deployment'
+        description={`This app was built using Expo CLI, which runs natively on all users devices. Get your app into all users's hands`}
+        mockupImg={assets.feature}
+        reverse
+      />
+      <SectionWrapper
+        title='Amazing way to show the NFTs store'
+        description='The first screen lists all the NFTs while the second one shows a specific NFT in detail'
+        showBtn={false}
+        mockupImg={assets.mockup}
+        banner='banner02'
+      />
+    
     </>
   );
 };
