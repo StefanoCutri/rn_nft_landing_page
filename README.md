@@ -2,14 +2,13 @@
 This is a landing showcase page for an NFT (non-fungible token) app built using React and Tailwind CSS.
 
 ## Features
-- Landing page with basic app information
-- Dashboard to display user's NFTs
-- Ability search for the NFTs
+- Responsive Design: The app has a responsive design that works seamlessly across all devices and screen sizes.
+- Listing and browsing NFTs on our app is simple and easy with our user-friendly interface.
 
 ## Technologies Used
 - React 
 - Tailwind CSS
-- 
+
 ## Screenshots
 ![Home view](https://user-images.githubusercontent.com/69378136/231000178-15384f1c-d543-4f60-a5d2-af393e0bfae7.png)
 ![Interface](https://user-images.githubusercontent.com/69378136/231000221-813ba9c9-30df-4f8d-aab4-593b59a75caa.png)
