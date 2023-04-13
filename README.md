@@ -23,5 +23,7 @@ This is a landing showcase page for an NFT (non-fungible token) app built using 
 - Run npm install to install the required dependencies.
 - Run npm start to start the app in development mode.
 
+Or see the hosted project: https://rn-nft-landing-page.vercel.app/
+
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for new features, please create an issue or submit a pull request.
