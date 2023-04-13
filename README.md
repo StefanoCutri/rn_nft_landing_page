@@ -1,5 +1,5 @@
 # React Native NFT Modern App
-This is a React Native NFT (Non-Fungible Token) modern app created using Expo.
+This is a landing showcase page for an NFT (non-fungible token) app built using React and Tailwind CSS.
 
 ## Features
 - Landing page with basic app information
@@ -7,9 +7,9 @@ This is a React Native NFT (Non-Fungible Token) modern app created using Expo.
 - Ability search for the NFTs
 
 ## Technologies Used
-- React Native
-- Expo
-
+- React 
+- Tailwind CSS
+- 
 ## Screenshots
 ![Home view](https://user-images.githubusercontent.com/69378136/231000178-15384f1c-d543-4f60-a5d2-af393e0bfae7.png)
 ![Interface](https://user-images.githubusercontent.com/69378136/231000221-813ba9c9-30df-4f8d-aab4-593b59a75caa.png)
@@ -20,12 +20,9 @@ This is a React Native NFT (Non-Fungible Token) modern app created using Expo.
 
 
 ## Installation and Usage
-- Clone this repository.
-- Run npm install to install dependencies.
-- Run expo start to start the Expo development server.
-- Follow the instructions in the terminal to run the app on an emulator or physical device.
-
-Or you can download from the showcase in: https://rn-nft-landing-page.vercel.app/
+- Clone the repository to your local machine.
+- Run npm install to install the required dependencies.
+- Run npm start to start the app in development mode.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for new features, please create an issue or submit a pull request.
